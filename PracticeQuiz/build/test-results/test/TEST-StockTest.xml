@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-11T23:12:55" hostname="DESKTOP-ER24V91" time="1.235">
+  <properties/>
+  <testcase name="userCanGetStockQuantity" classname="StockTest" time="1.235"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
